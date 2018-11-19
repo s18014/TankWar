@@ -15,7 +15,7 @@ const main = () => {
     game.fps = 60;
     game.preload(IMAGE.tank);
     game.preload(IMAGE.effect);
-    game.preload(IMAGE.icoc);
+    game.preload(IMAGE.icon);
     scene = game.rootScene;
     scene.backgroundColor = "#666";
 
